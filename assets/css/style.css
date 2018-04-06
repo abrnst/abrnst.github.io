@@ -4,6 +4,7 @@ h2 {
     color: #4aaaa5;
     font-family: Georgia;
     border-bottom:solid #cccccc;
+    font-size: 25px;
 
 
 }
@@ -26,6 +27,7 @@ html {
     border-right: solid #cccccc;
     left: 250px;
     font-size: 20px;
+    top: 3px;
 }
 .header {
     height: 60px;
@@ -50,7 +52,6 @@ html {
 
 .footer {
     background: #666666;
-    margin: 0px auto;
     padding: 0px 650px;
     width: 100%;
     height: 50px;
@@ -89,6 +90,7 @@ html {
 }  
 .copyright {
     float:middle;
+    margin: 14px auto;
 }
 a {
     text-decoration: none;
